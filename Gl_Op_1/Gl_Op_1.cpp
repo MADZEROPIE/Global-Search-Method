@@ -1,4 +1,4 @@
-﻿//Just like in my other projects (?) there will be a lot of useless comments. Don't mind that (As bad quality of my english as well, huh...)
+﻿//Just like in my other projects (?) there will be a lot of useless comments. Please don't mind that (As bad quality of my english as well, huh...)
 
 #include <iostream>
 #include <functional> //for std::function
@@ -6,13 +6,12 @@
 #include <vector> 
 #include <algorithm>
 
-//About style of naming. 
+//About style of naming. There is no style.
 
 using std::vector;
 using std::pair;
 
 typedef pair<double, double> dpair; 
-
 
 
 
